@@ -1,0 +1,14 @@
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\bin\Debug\net8.0\csharp_miner.exe
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\bin\Debug\net8.0\csharp_miner.deps.json
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\bin\Debug\net8.0\csharp_miner.runtimeconfig.json
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\bin\Debug\net8.0\csharp_miner.dll
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\bin\Debug\net8.0\csharp_miner.pdb
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.AssemblyInfo.cs
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.dll
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\refint\csharp_miner.dll
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.pdb
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\csharp_miner.genruntimeconfig.cache
+C:\Users\Jeremy\source\codeworks\personal\csharp_miner\obj\Debug\net8.0\ref\csharp_miner.dll
