@@ -40,6 +40,8 @@ public class Game
         break;
     }
 
+
+
   }
 
   private void DrawShop()
